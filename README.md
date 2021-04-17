@@ -6,6 +6,6 @@ Project of the "Security Cat" team at the RSUE hack
 
 **faces_num.py photo.png**
 
-2) https://github.com/Iacox/user-count-log/ - Сбор активности пользователя на уровне клиента и отправка данных на сервер.
+2) https://github.com/Iacox/user-count-log/ - Сбор активности пользователя на уровне клиента и отправка на сервер.
 
 3) 
