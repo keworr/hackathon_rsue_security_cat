@@ -8,6 +8,6 @@ Project of the "Security Cat" team at the RSUE hack
 
 2) https://github.com/Iacox/user-count-log/ - Сбор активности пользователя и отправка на сервер.
 
-3) index.py - Бэкенд на Python.
+3) index.py - Сервер. Анализ активности пользователя и бэкенд.
 
-4) db.db - БД с хэшами от атак повторения.
+4) db.db - БД хэшей от атак повторения.
