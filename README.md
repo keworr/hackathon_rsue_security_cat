@@ -15,3 +15,7 @@ Project of the "Security Cat" team at the RSUE hack
 5) .github/workflows/ - Статический анализ безопасности кода с Codacy SAST.
 
 ## Описание проекта
+
+Презентация для просмотра:
+
+https://prezi.com/view/eGt0CbQAfTf4qQYjD8pw/
